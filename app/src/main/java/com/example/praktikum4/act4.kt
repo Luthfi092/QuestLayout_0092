@@ -55,12 +55,13 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
             colors = CardDefaults.cardColors(
                 containerColor = colorResource(R.color.card_0_bg)
             )
-        )
-        {
-             {
+        ) {
+            Row(
+                modifier = Modifier.fillMaxWidth()
+            ) {
+                val gambar = painterResource(R.drawable.gambar)
 
-
-
+                
 
 
 
