@@ -1,7 +1,8 @@
 <resources>
+    <string name="app_name">Praktikum4</string>
     <string name="prodi">Teknologi Informasi</string>
     <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
-    <string name="nama">Apid</string>
-    <string name="alamat">Blora, Jawa Tengah</string>
+    <string name="nama">UPII JAGO</string>
+    <string name="alamat">Lampung, California </string>
     <string name="copy">Copyright, 2026</string>
 </resources>
